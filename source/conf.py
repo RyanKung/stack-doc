@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+import sys, os
+
+sys.path.insert(0, os.path.abspath('../stack'))
 #
 # stack documentation build configuration file, created by
 # sphinx-quickstart on Fri May  6 11:04:41 2016.
@@ -86,7 +89,7 @@ exclude_patterns = []
 
 # If true, the current module name will be prepended to all description
 # unit titles (such as .. function::).
-#add_module_names = True
+add_module_names = True
 
 # If true, sectionauthor and moduleauthor directives will be shown in the
 # output. They are ignored by default.

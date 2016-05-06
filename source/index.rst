@@ -18,7 +18,8 @@ It features:
 * Code quality controll
 * Peer to Peer git based release
 
-
+  
+  
 Quick Start:
 
 * Install::
@@ -62,8 +63,14 @@ Quick Start:
       git push production HEAD
 
 
+Modules
+
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 5
+
+   modules
+
+
 
 
 
@@ -71,6 +78,5 @@ Indices and tables
 ==================
 
 * :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
 

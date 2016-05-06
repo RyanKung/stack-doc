@@ -18,7 +18,8 @@ It features:
 * Code quality controll
 * Peer to Peer git based release
 
-
+  
+  
 Quick Start:
 
 * Install::
@@ -39,12 +40,14 @@ Quick Start:
     stack coverage
 
 * Run Executable file in Env::
+    
     stack python
     stack pip
     stack nosetests
     stack repl
     
 * Extentable::
+    
     Stack support you extent the envirement with fabfile
 
 * P2P git baseed depolyment:
@@ -60,8 +63,14 @@ Quick Start:
       git push production HEAD
 
 
+Modules
+
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 5
+
+   modules
+
+
 
 
 
