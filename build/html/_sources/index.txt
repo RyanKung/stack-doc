@@ -18,13 +18,24 @@ It features:
 * Code quality controll
 * Peer to Peer git based release
 
-  
+
+Include:
+
+* stack / pystack
+
+* scaffold  -- An Python template generator
+
+Dependence:
+
+* Python3.5 or Above (may require libffi-devel on `centos`)
+
+* git-daemon (https://git-scm.com/book/en/Git-on-the-Server-Git-Daemon)
   
 Quick Start:
 
-* Install::
+* Installation::
 
-    pip install python-start
+    pip3 install python-stack
 
 * Create a new project via template::
 
@@ -78,6 +89,5 @@ Indices and tables
 ==================
 
 * :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
 
