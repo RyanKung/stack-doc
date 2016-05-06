@@ -13,8 +13,7 @@ It features:
 * Install Python in current envirementautomatically, in an isolated location
 * Installing packages needed for your project.
 * Exec your project
-* Testing your project
-* Coverage your project
+* Check test Coverage your project
 * Code quality controll
 * Peer to Peer git based release
 
