@@ -24,6 +24,8 @@ Include:
 
 * scaffold  -- An Python template generator
 
+* sphinx -- needed by `stack doc`
+
 Dependence:
 
 * Python3.5 or Above (may require libffi-devel on `centos`)
@@ -59,6 +61,10 @@ Quick Start:
 * Extentable::
     
     Stack support you extent the envirement with fabfile
+
+* Document generator::
+
+    stack doc
 
 * P2P git baseed depolyment:
 
