@@ -15,7 +15,7 @@ It features:
 * Exec your project
 * Check test Coverage your project
 * Code quality controll
-* Peer to Peer git based release
+* End to End git based release
 
 
 Include:
