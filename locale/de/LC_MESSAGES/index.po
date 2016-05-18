@@ -1,0 +1,147 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016, Ryan Kung
+# This file is distributed under the same license as the stack package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: stack 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-05-18 14:56+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.3.4\n"
+
+#: ../../source/index.rst:7
+msgid "Welcome to stack's documentation!"
+msgstr ""
+
+#: ../../source/index.rst:9
+msgid ""
+"`stack` is a Python version of "
+"`stack`(http://docs.haskellstack.org/en/stable/README/), which is a "
+"cross-platform programm for developing `Python` projects. It is aimed at "
+"`Pythoners` both new and experienced."
+msgstr ""
+
+#: ../../source/index.rst:11
+msgid "It features:"
+msgstr ""
+
+#: ../../source/index.rst:13
+msgid "Install Python in current envirementautomatically, in an isolated location"
+msgstr ""
+
+#: ../../source/index.rst:14
+msgid "Installing packages needed for your project."
+msgstr ""
+
+#: ../../source/index.rst:15
+msgid "Exec your project"
+msgstr ""
+
+#: ../../source/index.rst:16
+msgid "Check test Coverage your project"
+msgstr ""
+
+#: ../../source/index.rst:17
+msgid "Code quality controll"
+msgstr ""
+
+#: ../../source/index.rst:18
+msgid "Peer to Peer git based release"
+msgstr ""
+
+#: ../../source/index.rst:21
+msgid "Include:"
+msgstr ""
+
+#: ../../source/index.rst:23
+msgid "stack / pystack"
+msgstr ""
+
+#: ../../source/index.rst:25
+msgid "scaffold  -- An Python template generator"
+msgstr ""
+
+#: ../../source/index.rst:27
+msgid "sphinx -- needed by `stack doc`"
+msgstr ""
+
+#: ../../source/index.rst:29
+msgid "Dependence:"
+msgstr ""
+
+#: ../../source/index.rst:31
+msgid "Python3.5 or Above (may require libffi-devel on `centos`)"
+msgstr ""
+
+#: ../../source/index.rst:33
+msgid "git-daemon (https://git-scm.com/book/en/Git-on-the-Server-Git-Daemon)"
+msgstr ""
+
+#: ../../source/index.rst:35
+msgid "Quick Start:"
+msgstr ""
+
+#: ../../source/index.rst:37
+msgid "Installation::"
+msgstr ""
+
+#: ../../source/index.rst:41
+msgid "Create a new project via template::"
+msgstr ""
+
+#: ../../source/index.rst:45
+msgid "Init and Setup on an existed project::"
+msgstr ""
+
+#: ../../source/index.rst:50
+msgid "Test and report test coverage::"
+msgstr ""
+
+#: ../../source/index.rst:54
+msgid "Run Executable file in Env::"
+msgstr ""
+
+#: ../../source/index.rst:61
+msgid "Extentable::"
+msgstr ""
+
+#: ../../source/index.rst:65
+msgid "Document generator::"
+msgstr ""
+
+#: ../../source/index.rst:69
+msgid "P2P git baseed depolyment:"
+msgstr ""
+
+#: ../../source/index.rst:71
+msgid "on remote production server::"
+msgstr ""
+
+#: ../../source/index.rst:75
+msgid "on local dev envirement::"
+msgstr ""
+
+#: ../../source/index.rst:82
+msgid "Modules"
+msgstr ""
+
+#: ../../source/index.rst:94
+msgid "Indices and tables"
+msgstr ""
+
+#: ../../source/index.rst:96
+msgid ":ref:`genindex`"
+msgstr ""
+
+#: ../../source/index.rst:97
+msgid ":ref:`search`"
+msgstr ""
+

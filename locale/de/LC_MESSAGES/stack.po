@@ -1,0 +1,71 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016, Ryan Kung
+# This file is distributed under the same license as the stack package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: stack 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-05-18 14:56+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.3.4\n"
+
+#: ../../source/stack.rst:2
+msgid "stack package"
+msgstr ""
+
+#: ../../source/stack.rst:5
+msgid "Subpackages"
+msgstr ""
+
+#: ../../source/stack.rst:12
+msgid "Submodules"
+msgstr ""
+
+#: ../../source/stack.rst:15
+msgid "stack.after_install module"
+msgstr ""
+
+#: ../../source/stack.rst:23
+msgid "stack.args module"
+msgstr ""
+
+#: ../../source/stack.rst:31
+msgid "stack.config module"
+msgstr ""
+
+#: ../../source/stack.rst:39
+msgid "stack.decorators module"
+msgstr ""
+
+#: ../../source/stack.rst:47
+msgid "stack.fabfile module"
+msgstr ""
+
+#: ../../source/stack.rst:55
+msgid "stack.main module"
+msgstr ""
+
+#: of stack.main.ignore:1
+msgid "ignore exceptiong"
+msgstr ""
+
+#: ../../source/stack.rst:63
+msgid "stack.stack_init module"
+msgstr ""
+
+#: ../../source/stack.rst:71
+msgid "stack.util module"
+msgstr ""
+
+#: ../../source/stack.rst:80
+msgid "Module contents"
+msgstr ""
+
