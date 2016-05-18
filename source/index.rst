@@ -38,6 +38,10 @@ Quick Start:
 
     pip3 install python-stack
 
+    or run
+
+    curl "https://raw.githubusercontent.com/RyanKung/stack/master/install.sh" | sh
+
 * Create a new project via template::
 
     stack new <project name> -t <template path>
