@@ -10,7 +10,7 @@ Welcome to stack's documentation!
 
 It features:
 
-* Install Python in current envirementautomatically, in an isolated location
+* Install Python in current envirement automatically, in an isolated location
 * Installing packages needed for your project.
 * Exec your project
 * Check test Coverage your project
