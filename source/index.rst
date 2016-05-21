@@ -8,6 +8,8 @@ Welcome to stack's documentation!
 
 `stack` is a Python version of `stack` (http://docs.haskellstack.org/en/stable/README/), which is a cross-platform programm for developing `Python` projects. It is aimed at `Pythoners` both new and experienced.
 
+Go Star `Stack on GitHub` (http://github.com/ryankung/stack)
+
 It features:
 
 * Install Python in current envirement automatically, in an isolated location
