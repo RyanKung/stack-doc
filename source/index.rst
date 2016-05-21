@@ -75,11 +75,11 @@ Quick Start:
 
     @as_command
     def do(args):
-    '''
-    sth
-    @argument --sth, help=dowhat
-    '''
-    print('do %s' % args.sth)
+        '''
+        sth
+        @argument --sth, help=dowhat
+        '''
+        print('do %s' % args.sth)
    
     
 
