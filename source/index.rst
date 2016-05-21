@@ -26,7 +26,7 @@ Include:
 
 * scaffold  -- An Python template generator
 
-* sphinx -- needed by `stack doc`
+* require  -- An Async Remote Module Loader
 
 Dependence:
 
