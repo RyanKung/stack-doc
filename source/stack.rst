@@ -1,23 +1,8 @@
 stack package
 =============
 
-Subpackages
------------
-
-.. toctree::
-
-    stack.require
-
 Submodules
 ----------
-
-stack.after_install module
---------------------------
-
-.. automodule:: stack.after_install
-    :members:
-    :undoc-members:
-    :show-inheritance:
 
 stack.args module
 -----------------
