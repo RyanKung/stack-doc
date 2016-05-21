@@ -6,7 +6,7 @@
 Welcome to stack's documentation!
 =================================
 
-`stack` is a Python version of `stack`(http://docs.haskellstack.org/en/stable/README/), which is a cross-platform programm for developing `Python` projects. It is aimed at `Pythoners` both new and experienced.
+`stack` is a Python version of `stack` (http://docs.haskellstack.org/en/stable/README/), which is a cross-platform programm for developing `Python` projects. It is aimed at `Pythoners` both new and experienced.
 
 It features:
 
@@ -28,7 +28,7 @@ Include:
 
 Dependence:
 
-* Python3.5 or Above (may require libffi-devel on `centos`)
+* Python3.5 or Above (may require libffi-devel on `centos`, or libffi-dev for `debian`)
 
 * git-daemon (https://git-scm.com/book/en/Git-on-the-Server-Git-Daemon)
   
@@ -59,12 +59,29 @@ Quick Start:
     
     stack python
     stack pip
-    stack nosetests
+    stack test
     stack repl
+
+* Run a remote file::
+
+    stack run --run <some *.py remote>
     
 * Extentable::
     
-    Stack support you extent the envirement with fabfile
+    Stack support you extent the envirement with stackfile like this:
+
+    
+    from stack.decorators import as_command
+
+    @as_command
+    def do(args):
+    '''
+    sth
+    @argument --sth, help=dowhat
+    '''
+    print('do %s' % args.sth)
+   
+    
 
 * Document generator::
 
@@ -78,7 +95,7 @@ Quick Start:
 
   on local dev envirement::
   
-      git add remote production <your remote ip>:30976/.git
+      git add remote production git://<your remote ip>:30976/.git
       git checkout release/<your release branch>
       git push production HEAD
 
