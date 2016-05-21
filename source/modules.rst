@@ -6,6 +6,4 @@ stack
 
    require
    scaffold
-   setup
    stack
-   stack_init
